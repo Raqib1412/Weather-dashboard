@@ -1,0 +1,92 @@
+{
+    "Hyderabad": {
+        "temperature": 32,
+        "condition": "Sunny",
+        "humidity": 40,
+        "wind": 3.5
+    },
+    "Delhi": {
+        "temperature": 28,
+        "condition": "Cloudy",
+        "humidity": 60,
+        "wind": 4.0
+    },
+    "Mumbai": {
+        "temperature": 30,
+        "condition": "Rainy",
+        "humidity": 70,
+        "wind": 5.2
+    },
+    "Bengaluru": {
+        "temperature": 25,
+        "condition": "Sunny",
+        "humidity": 50,
+        "wind": 4.5
+    },
+    "Chennai": {
+        "temperature": 33,
+        "condition": "Humid",
+        "humidity": 65,
+        "wind": 3.0
+    },
+    "Kolkata": {
+        "temperature": 29,
+        "condition": "Cloudy",
+        "humidity": 75,
+        "wind": 4.8
+    },
+    "Pune": {
+        "temperature": 27,
+        "condition": "Clear",
+        "humidity": 55,
+        "wind": 3.7
+    },
+    "Ahmedabad": {
+        "temperature": 35,
+        "condition": "Sunny",
+        "humidity": 30,
+        "wind": 4.2
+    },
+    "Jaipur": {
+        "temperature": 31,
+        "condition": "Hot",
+        "humidity": 25,
+        "wind": 3.9
+    },
+    "Lucknow": {
+        "temperature": 26,
+        "condition": "Foggy",
+        "humidity": 80,
+        "wind": 2.5
+    },
+    "Visakhapatnam": {
+        "temperature": 29,
+        "condition": "Rainy",
+        "humidity": 68,
+        "wind": 4.1
+    },
+    "Bhopal": {
+        "temperature": 30,
+        "condition": "Sunny",
+        "humidity": 50,
+        "wind": 3.8
+    },
+    "Surat": {
+        "temperature": 31,
+        "condition": "Cloudy",
+        "humidity": 65,
+        "wind": 4.0
+    },
+    "Patna": {
+        "temperature": 28,
+        "condition": "Rainy",
+        "humidity": 72,
+        "wind": 3.6
+    },
+    "Vadodara": {
+        "temperature": 30,
+        "condition": "Clear",
+        "humidity": 60,
+        "wind": 3.4
+    }
+}
